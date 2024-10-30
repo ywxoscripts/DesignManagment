@@ -23,8 +23,8 @@ local function findTextLabelWithTextPrefix(parent, prefix)
     return nil
 end
 local prefixes = {
-    "Use selected ZoomDistance", "Camera ZoomDistance", "Toggle Fly", "Select FlySpeed", "WalkSpeed", "Select WalkSpeed", "TP Walk", "Select TP WalkSpeed", "Infinite Jump", "Noclip", "Sprint (Shift)", "SprintSpeed", "Create Sprint Button",
-    "- Click", "- Win", "- Win Multiplier  |  (Wins ... at once)", "- Rebirth", "- Hatch", "- Eggs", "- World", 
+    "- ZoomDistance", "- Camera ZoomDistance", "- Fly", "- Select FlySpeed", "- WalkSpeed", "- Select WalkSpeed", "- TP Walk", "- Select TP-WalkSpeed", "- Infinite Jump", "- Noclip", "- Sprinting", "- Select SprintSpeed", "- Create Sprint Button",
+    "- Click", "- Win", "- Win Multiplier  |  (Wins ... at once)", "- Rebirth", "- Hatch", "- Eggs", 
     "- Mobile Toggle", "- Mobile Toggle Size", "- Button ImageTransparency", "- Kill Gui + Toggle Buttons", "- Anti Idle", "- Copy Discord Invite"
 }
 getgenv().DesignUpdater = false
