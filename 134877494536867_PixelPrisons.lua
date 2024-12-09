@@ -25,7 +25,7 @@ local function findTextLabelWithTextPrefix(parent, prefix)
 end
 local prefixes = {
     "- ZoomDistance", "- Camera ZoomDistance", "- Fly", "- Select FlySpeed", "- WalkSpeed", "- Select WalkSpeed", "- TP Walk", "- Select TP-WalkSpeed", "- Infinite Jump", "- Noclip", "- Sprinting", "- Select SprintSpeed", "- Create Sprint Button",
-    "- ⛏️MineAura", "- ⛏️MineAura Range", "- ⛏️MineAura Speed", 
+    "- ⛏️MineAura", "- ⛏️MineAura Range", "- ⛏️Mine Cooldown", 
     "- Mobile Toggle", "- Mobile Toggle Size", "- Button ImageTransparency", "- Kill Gui + Toggle Buttons", "- Anti Idle", "- Copy Discord Invite"
 }
 getgenv().DesignUpdater = false
