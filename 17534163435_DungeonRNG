@@ -23,7 +23,7 @@ local function findTextLabelWithTextPrefix(parent, prefix)
     return nil
 end
 local prefixes = {
-    "Use selected ZoomDistance", "Camera ZoomDistance", "Toggle Fly", "Select FlySpeed", "WalkSpeed", "Select WalkSpeed", "TP Walk", "Select TP WalkSpeed", "Infinite Jump", "Noclip", "Sprint (Shift)", "SprintSpeed", "Create Sprint Button",
+    "- ZoomDistance", "- Camera ZoomDistance", "- Fly", "- Select FlySpeed", "- WalkSpeed", "- Select WalkSpeed", "- TP Walk", "- Select TP-WalkSpeed", "- Infinite Jump", "- Noclip", "- Sprinting", "- Select SprintSpeed", "- Create Sprint Button",
     
     "- Kill LocalPlayer", "- Fish", "- Roll",
     "- Collect Potions", "- Use selected Potion", "- Potions",
