@@ -24,7 +24,8 @@ local desccolorSuccess, desccolorValue = pcall(function()
     end
     local prefixes = {
         "- ZoomDistance", "- Camera ZoomDistance", "- Fly", "- Select FlySpeed", "- WalkSpeed", "- Select WalkSpeed", "- TP Walk", "- Select TP-WalkSpeed", "- Infinite Jump", "- Noclip", "- Sprinting", "- Select SprintSpeed", "- Create Sprint Button",
-        "- Shake", "- Cast", "- Reel", "- AFK Helper", 
+        "- Shake", "- Cast", "- Reel", "- AFK Helper", "- Radar",
+        "- Search location", "- Areas", "- Teleport to location", "- Username / Display", "- Teleport to player",
         "- Mobile Toggle", "- Mobile Toggle Size", "- Button ImageTransparency", "- Kill Gui + Toggle Buttons", "- Anti Idle", "- Copy Discord Invite"
     }
     getgenv().DesignUpdater = false
