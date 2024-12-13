@@ -24,10 +24,11 @@ local function findTextLabelWithTextPrefix(parent, prefix)
 end
 local prefixes = {
     "- ZoomDistance", "- Camera ZoomDistance", "- Fly", "- Select FlySpeed", "- WalkSpeed", "- Select WalkSpeed", "- TP Walk", "- Select TP-WalkSpeed", "- Infinite Jump", "- Noclip", "- Sprinting", "- Select SprintSpeed", "- Create Sprint Button",
+    "- Collect Gifts", "- Collect Mode", 
     "- Click", "- Playtime Rewards", "- Claim Achievements", "- Spin", "- Rebirth", "- Rebirth selection", "- Lags?", "- Collect Chests", "- Chests cooldown", "- Tap Skins", "- Aura", "- Aura & Skin cooldown",  
     "- Hatch", "- Use Triple", "- Egg selection",
     "- Potion", "- Buy Amount", "- Potion selection", "- Potion cooldown",
-    "- Collect Forest Parts", "- Collect Aqua Parts", "- Collect Fantasy Parts", "- Collect Fire Parts", "- Collect Fun Parts", "- Collect Sand Parts", "- Collect Space Parts",
+    "- Collect Forest Parts", "- Collect Aqua Parts", "- Collect Fantasy Parts", "- Collect Fire Parts", "- Collect Fun Parts", "- Collect Sand Parts", "- Collect Space Parts", "- Collect Magic Parts",
     "- Upgrades", "- Other", 
     "- Mobile Toggle", "- Mobile Toggle Size", "- Button ImageTransparency", "- Kill Gui + Toggle Buttons", "- Anti Idle", "- Copy Discord Invite"
 }
