@@ -28,9 +28,9 @@ local gameIdToPrefixes = {
         "- Tp-Movement", "- Create Tp-Movement Toggle", "- Movement Speed  |  Default : 2", "- Fly Helper V1", "- Fly Helper V2", 
         "- Mob Godmode", "- Mob Godmode Helper", "- Anti Knockback", "- Collect", 
         "- Remove DamageIndicators", "- Attack Aura", "- Attack Cooldown | Default : 0.25", "- Max Attack Mobs Limit | Default : 2", "- Attack Multiplier",
-        "- Locate Mobs", "- Location Distance", "- Mob Filter | Write 'All' to select all", 
-        "- Farm selected Mob", "- Farm Filter | Write 'All' to select all",
-        "- Button ImageTransparency", "- Kill Gui + Toggle Buttons", "- Anti Idle", "- Copy Discord Invite"
+        "- Locate Mobs", "- Location Distance", "- Mob Filter  |  Write 'All' to select all", 
+        "- Farm selected Mob", "- Farm Filter  |  Write 'All' to select all",
+        "- Mobile Toggle", "- Mobile Toggle Size", "- Button ImageTransparency", "- Kill Gui + Toggle Buttons", "- Anti Idle", "- Copy Discord Invite"
     },
     [5719123726] = { 
         "- ZoomDistance", "- Camera ZoomDistance", "- Fly", "- Select FlySpeed", "- WalkSpeed", "- Select WalkSpeed", 
