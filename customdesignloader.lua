@@ -40,6 +40,11 @@ local gameIdToPrefixes = {
         "- Zone 5", "- Zone 6", "- Zone 7", "- Zone 8", "- Mobile Toggle", "- Mobile Toggle Size", 
         "- Button ImageTransparency", "- Kill Gui + Toggle Buttons", "- Anti Idle", "- Copy Discord Invite"
      },
+    [6475810089] = {
+        "- ZoomDistance", "- Camera ZoomDistance", "- Fly", "- Select FlySpeed", "- WalkSpeed", "- Select WalkSpeed", "- TP Walk", "- Select TP-WalkSpeed", "- Infinite Jump", "- Noclip", "- Sprinting", "- Select SprintSpeed", "- Create Sprint Button",
+        "- Train", "- Train Multiplier", "- Open Gacha", "- Gachas",
+        "- Mobile Toggle", "- Mobile Toggle Size", "- Button ImageTransparency", "- Kill Gui + Toggle Buttons", "- Anti Idle", "- Copy Discord Invite"
+    }
 }
 local currentGameId = game.GameId
 local prefixes = gameIdToPrefixes[currentGameId] or {}
